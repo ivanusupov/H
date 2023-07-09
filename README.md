@@ -1,0 +1,1 @@
+basic domain information in a clear human-readable form
